@@ -1,0 +1,9 @@
+[
+  {
+    "type": "java",
+    "name": "frcJava",
+    "port": 8349,
+    "target": "10.21.45.2",
+    "project": "RIP-Bandit-2025-main"
+  }
+]
